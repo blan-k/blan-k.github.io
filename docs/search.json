@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SIVCA: Sistema Integral de Vigilancia de Calidad del aire",
+    "section": "",
+    "text": "Mapas de material particulado \\(2.5\\micro m\\) 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "SIVCA (SIstema de Vigilancia integrada de Contaminantes Atmosféricos) es una plataforma de investigación y visualización que nace con la misión de cerrar la brecha de información sobre la calidad del aire en Chile."
+  },
+  {
+    "objectID": "about.html#el-problema",
+    "href": "about.html#el-problema",
+    "title": "Acerca de",
+    "section": "El Problema",
+    "text": "El Problema\nLa contaminación atmosférica por material particulado (PM₂.₅) es uno de los desafíos de salud pública más importantes del país. Sin embargo, el monitoreo se concentra en pocas ciudades, dejando a la mayoría de la población sin datos precisos sobre la calidad del aire que respira."
+  },
+  {
+    "objectID": "about.html#nuestra-solución",
+    "href": "about.html#nuestra-solución",
+    "title": "Acerca de",
+    "section": "Nuestra Solución",
+    "text": "Nuestra Solución\nEste proyecto utiliza inteligencia artificial para fusionar múltiples fuentes de datos y así crear un mapa de la contaminación con cobertura nacional. Nuestro modelo se nutre de datos satelitales, resultados de modelos de reanálisis, y mediciones de estaciones en tierra.\nEs importante destacar que esta plataforma presenta los primeros resultados de nuestro modelo. Como tal, es una herramienta en fase de investigación y desarrollo, y sus datos deben ser considerados estrictamente preliminares."
+  },
+  {
+    "objectID": "about.html#visión-y-próximos-pasos",
+    "href": "about.html#visión-y-próximos-pasos",
+    "title": "Acerca de",
+    "section": "Visión y Próximos Pasos",
+    "text": "Visión y Próximos Pasos\nEl sitio web actual funciona como un prototipo de demostración. Su objetivo principal es ilustrar el potencial de nuestra metodología y validar nuestro enfoque científico. Los datos aquí expuestos son preliminares y no deben ser utilizados para la toma de decisiones críticas.\nPara llevar este proyecto a su máximo potencial, el equipo se encuentra preparando una postulación formal al fondo ANID - Concurso IDeA de Investigación y Desarrollo (I+D) 2026. Con el financiamiento, buscaremos consolidar la plataforma, mejorar la precisión de las predicciones, desarrollar una aplicación móvil con alertas personalizadas y convertir a SIVCA en un bien público de referencia para la ciudadanía y los tomadores de decisiones."
+  },
+  {
+    "objectID": "about.html#el-equipo",
+    "href": "about.html#el-equipo",
+    "title": "Acerca de",
+    "section": "El Equipo",
+    "text": "El Equipo\nEste proyecto es impulsado por un equipo multidisciplinario de investigadores:\n\nDirectora del Proyecto: Blanca Rios Ramos, Hemera, Universidad Mayor.\nDirector Alterno: Francisco Zambrano Bigiarini, Hemera, Universidad Mayor.\nInvestigador: Sebastian Diez, Universidad del Desarrollo."
+  }
+]
